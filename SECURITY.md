@@ -1,6 +1,7 @@
 # Security Policy
 
 ## Reporting a Vulnerability
-If you find a security issue, please report it by opening an issue in this repository.
 
-We will review and respond as soon as possible.
+Please report security issues to: security@example.com
+
+You will receive a response within 7 days. If the issue is confirmed, we will release a patch as soon as possible.
