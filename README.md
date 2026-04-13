@@ -1,7 +1,7 @@
 # TicTacToeGame
 
 ## Description
-A simple Python-based Tic Tac Toe game.
+A simple Python-based Tic Tac Toe game. It solves the problem of creating an entertaining experience to users.
 
 ## How to Run
 1. Install Python
