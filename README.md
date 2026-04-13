@@ -1,7 +1,6 @@
 # TicTacToeGame
-
-![Scorecard](https://api.securityscorecards.dev/projects/github.com/Kailas715/TicTacToe/badge)
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/12504/badge)](https://www.bestpractices.dev/projects/12504)
+![Scorecard](https://api.securityscorecards.dev/projects/github.com/Kailas715/TicTacToe/badge)
 
 ## Description
 A simple Python-based Tic Tac Toe game. It solves the problem of creating an entertaining experience to users.
