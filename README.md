@@ -1,5 +1,5 @@
 # TicTacToeGame
-[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/12504/badge)](https://www.bestpractices.dev/projects/12504?refresh=1)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/12504/badge)
 ![Scorecard](https://api.securityscorecards.dev/projects/github.com/Kailas715/TicTacToe/badge)
 
 ## Description
